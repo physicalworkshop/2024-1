@@ -159,37 +159,37 @@ figcaption {
 
   }
   .contents p {
-    font-size: 0.885rem;
+    font-size: 1rem;
   }
   h1 {
-    font-size: 0.985rem;
+    font-size: 1rem;
   }
   h2 {
-    font-size: 0.985rem;
+    font-size: 1rem;
   }
   #tag{
-    font-size: 0.685rem;
+    font-size: 0.885rem;
   }
 }
 
 @media screen and (max-width: 768px) {
   figcaption {
-    font-size: 0.685rem;
+    font-size: 1rem;
   }
 }
 
 @media screen and (max-width: 450px) {
   .contents p {
-    font-size: 0.685rem;
+    font-size: 1rem;
   }
   h1 {
-    font-size: 0.985rem;
+    font-size: 1rem;
   }
   h2 {
-    font-size: 0.985rem;
+    font-size: 1rem;
   }
   #tag{
-    font-size: 0.685rem;
+    font-size: 0.885rem;
 }
 }
 
