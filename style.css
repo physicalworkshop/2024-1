@@ -14,6 +14,27 @@ body {
   padding: 0;
 }
 
+.header_wrap {
+  width: 100vw;
+  display: flex;
+  position: fixed;
+  font-family: "Pretendard", sans-serif;
+  justify-content: space-between;
+  height: 5vh;
+  background-color: #000000;
+  list-style-type: none;
+  text-align: center;
+  z-index: 999;
+}
+
+.header_wrap li {
+  color:#ffffff;
+  display: inline-block;
+  font-size: 1.2rem;
+  line-height: 5vh;
+  padding-left: 1vw;
+}
+
 .container {
   display: flex;
   height: 100vh;
